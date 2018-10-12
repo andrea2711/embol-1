@@ -1,0 +1,45 @@
+.bg-light {
+  background-color: $white !important;
+}
+.embol-navbar{
+  max-width: 80%;
+
+  .nav-item{
+    padding: 0 2rem;
+      a{
+        border-bottom: 2px solid transparent;
+        &:hover{
+          border-bottom: 2px solid #ED1C24;
+          transition: all ease-in 0.5s;
+        }
+      }
+     .nav-link{
+        color: $black;
+        font-weight: bold;
+       a{
+         color: $black;
+         font-weight: bold;
+         &:hover{
+           text-decoration: none;
+           border-bottom: 2px solid transparent;
+         }
+       }
+    }
+  }
+}
+
+.embol-dropdown-item{
+  color: #000;
+  a{
+    color: $black;
+    font-weight: bold;
+    text-transform: uppercase;
+    .embol-red{
+      color: #ED1C24;
+      font-weight: normal;
+    }
+    &:hover{
+      text-decoration: none;
+    }
+  }
+}

@@ -1,8 +1,8 @@
 import React from 'react'
 
 const Home = () => (
-  <div>
-    <h1>Test</h1>
+  <div className="background-logo">
+
   </div>
 )
 

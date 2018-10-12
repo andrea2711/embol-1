@@ -1,0 +1,107 @@
+@import "components/home/home";
+@import "components/commons/steps";
+@import "components/commons/explain";
+@import "assets/fonts/fonts";
+
+$primary:       #ED1C24 !default;
+
+$font-family-sans-serif:      "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+$font-family-base:            $font-family-sans-serif !default;
+
+.main-container{
+  padding: 1rem 0;
+}
+.embol-logo{
+  background-image: url("assets/IMCR_logo_barra.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 150px;
+  position: absolute;
+  top: 2px;
+}
+.embol-line-height{
+  color: $primary;
+  margin-bottom: -8px;
+  text-transform: uppercase;
+}
+h1,h2,h3,h4,h5,h6{
+  text-transform: uppercase;
+}
+.embol-paragraph{
+  padding: 1rem;
+}
+
+.circle{
+  content: '';
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #ED1C24;
+  border-radius: 100%;
+  right: 10px;
+  top: 54%;
+  .small-arrow{
+    border-left: 20px solid #ED1C24;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    right: 6px;
+    top: 26%;
+
+  }
+}
+.embol-especial{
+  padding-top: 5.5rem;
+}
+.embol-divider{
+  &:before{
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 300px solid #454242;
+    border-top: 0 solid transparent;
+    border-bottom: 25px solid transparent;
+    position: absolute;
+    left: -300px;
+  }
+  width: 0;
+  height: 0;
+  border-left: 300px solid $primary;
+  border-top: 0 solid transparent;
+  border-bottom: 40px solid transparent;
+  position: relative;
+}
+.embol-steps{
+  .step-container{
+    background: #270c0d; /* Old browsers */
+    background: -moz-linear-gradient(left, #270c0d 0%, #722528 7%, #cd2d31 45%, #cd2d31 45%, #5b1210 92%, #270c0d 99%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #270c0d 0%,#722528 7%,#cd2d31 45%,#cd2d31 45%,#5b1210 92%,#270c0d 99%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #270c0d 0%,#722528 7%,#cd2d31 45%,#cd2d31 45%,#5b1210 92%,#270c0d 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#270c0d', endColorstr='#270c0d',GradientType=1 ); /* IE6-9 */
+
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    line-height: 55px;
+    width: 250px;
+    margin: 20px 0;
+  }
+  .step-number{
+    position: absolute;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    background: #ED1C24;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    top: 67px;
+    left: 250px;
+  }
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "components/commons/Header";
