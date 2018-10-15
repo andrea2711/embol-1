@@ -109,7 +109,7 @@ export default class Header extends React.Component {
                                 </DropdownToggle>
                                 <DropdownMenu left>
                                     <DropdownItem>
-                                        <Link to='/Incidents'><span>PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
+                                        <Link to='/Anexo1'><span>PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
                                         </Link>
                                     </DropdownItem>
                                     <DropdownItem>

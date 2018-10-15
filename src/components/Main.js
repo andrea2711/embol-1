@@ -4,8 +4,9 @@ import Home from './home/Home'
 import Definitions from './Definitions/Definitions'
 import Incident from './Definitions/Incident'
 import Contacts from './Contacts'
-import Step1 from "./Incidents/step1";
-import Step2 from "./Incidents/step2";
+import Anexo1 from './Anexos/Anexo1'
+import Step1 from "./Incidents/step1"
+import Step2 from "./Incidents/step2"
 import Step3 from "./Incidents/step3"
 import Step4 from "./Incidents/step4"
 import Step5 from "./Incidents/step5"
@@ -21,6 +22,7 @@ const Main = () => (
       <Route exact path='/' component={Home}/>
       <Route path='/Definitions' component={Definitions}/>
         <Route path='/Incident' component={Incident}/>
+        <Route path='/Anexo1' component={Anexo1}/>
       <Route path='/schedule' component={Contacts}/>
         <Route path='/Step1' component={Step1}/>
         <Route path='/Step2' component={Step2}/>
