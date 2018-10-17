@@ -11,7 +11,7 @@ import {
     UncontrolledDropdown,
     DropdownToggle,
     DropdownMenu,
-    DropdownItem } from 'reactstrap';
+    div } from 'reactstrap';
 
 
 export default class Header extends React.Component {
@@ -46,45 +46,45 @@ export default class Header extends React.Component {
                                 MANEJO DE INCIDENTES <br/> Y RESOLUCIÓN DE CRISIS
                             </DropdownToggle>
                             <DropdownMenu left>
-                                <DropdownItem className="embol-dropdown-item">
-                                    <Link to='/Step1'><span className="embol-red">PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
-                                    </Link>
-                                </DropdownItem>
-                                <DropdownItem className="embol-dropdown-item">
+                                <div className="embol-dropdown-item">
+                                      <Link to='/Step1'><span className="embol-red">PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
+                                        </Link>
+                                </div>
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step2'><span className="embol-red">PASO 2 </span>
                                         Comunicación / ACTIVACIÓN EMI - OPERACIÓN
                                     </Link>
-                                </DropdownItem>
-                                <DropdownItem className="embol-dropdown-item">
+                                </div>
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step3'><span className="embol-red">PASO 3 </span>
                                         verificación de Datos
                                     </Link>
-                                </DropdownItem >
-                                <DropdownItem className="embol-dropdown-item">
+                                </div >
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step4'><span className="embol-red">PASO 4 </span>
                                         Confirmación ACTIVACIÓN IMCR
                                     </Link>
-                                </DropdownItem>
-                                <DropdownItem className="embol-dropdown-item">
+                                </div>
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step5'><span className="embol-red">PASO 5 </span>
                                         Medidas de control
                                     </Link>
-                                </DropdownItem>
-                                <DropdownItem className="embol-dropdown-item">
+                                </div>
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step6'><span className="embol-red">PASO 6 </span>
                                         Análisis de Causas y Plan de acción
                                     </Link>
-                                </DropdownItem >
-                                <DropdownItem className="embol-dropdown-item">
+                                </div >
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step7'><span className="embol-red">PASO 7 </span>
                                         Lecciones Aprendidas
                                     </Link>
-                                </DropdownItem>
-                                <DropdownItem className="embol-dropdown-item">
+                                </div>
+                                <div className="embol-dropdown-item">
                                     <Link to='/Step8'><span className="embol-red">PASO 8 </span>
                                         Revisión de los Procedimientos
                                     </Link>
-                                </DropdownItem>
+                                </div>
                                </DropdownMenu>
                         </UncontrolledDropdown>
 
@@ -93,13 +93,13 @@ export default class Header extends React.Component {
                                     CONTACTOS
                                 </DropdownToggle>
                                 <DropdownMenu left>
-                                    <DropdownItem>
+                                    <div>
                                         <Link to='/Incidents'><span>PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
                                         </Link>
-                                    </DropdownItem>
-                                    <DropdownItem>
+                                    </div>
+                                    <div>
                                         Option 2
-                                    </DropdownItem>
+                                    </div>
                                 </DropdownMenu>
 
                             </UncontrolledDropdown>
@@ -108,13 +108,13 @@ export default class Header extends React.Component {
                                     ANEXOS
                                 </DropdownToggle>
                                 <DropdownMenu left>
-                                    <DropdownItem>
+                                    <div>
                                         <Link to='/Anexo1'><span>PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
                                         </Link>
-                                    </DropdownItem>
-                                    <DropdownItem>
+                                    </div>
+                                    <div>
                                         Option 2
-                                    </DropdownItem>
+                                    </div>
                                 </DropdownMenu>
 
                             </UncontrolledDropdown>
