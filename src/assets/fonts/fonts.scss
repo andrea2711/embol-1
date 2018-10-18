@@ -2,6 +2,11 @@
   font-family: Panton;
   src: url(assets/fonts/Panton-Regular.otf);
 }
+@font-face {
+  font-family: Blogger Sans;
+  src: url(assets/fonts/Blogger-Sans.ttf);
+}
 
 
-$font-panton:  "Panton", CenturyGothic, AppleGothic, sans-serif;;
+$font-panton:  "Panton", CenturyGothic, AppleGothic, sans-serif;
+$font-blogger:  "Blogger Sans", CenturyGothic, AppleGothic, sans-serif;

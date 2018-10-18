@@ -20,7 +20,7 @@ const Anexo1 = () => (
             <ExplainAnexo explain1={'Identificación de los puntos de venta a los que fue distribuido el producto en cuestión.\n' +
             'Verificar cuadratura.'} />
             <Row className="note"><p>NOTA: Si se identifican personas que han sido afectadas por el consumo del producto en cuestión, se debe prestar apoyo en la atención médica.</p></Row>
-            <AnexosFooter explain1={'IDENTIFICAR POSIBLE AFECTACIÓN – VER'} link1={'ANEXO DE AFECTACIONES'} explain2={'ACTIVACION DEL'} link2={'PROCEDIMIENTO DE CONTINUIDAD DEL NEGOCIO'} />
+            <AnexosFooter />
         </Col>
     </Row>
 

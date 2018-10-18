@@ -18,7 +18,7 @@ const Anexo2 = () => (
             <ExplainAnexo explain1={'Verificación del daño que se generó, identificando la afectación, tanto en infraestructura, equipamiento, producto o personas.'} />
             <ExplainAnexo explain1={'Aislamiento de la infraestructura, equipamiento o producto. Apoyo en atención médica; si existe personas afectadas.'} />
             <ExplainAnexo explain1={'Comunicación a las autoridades ambientales en el lugar donde sucedió el incidente.'} />
-            <AnexosFooter explain1={'IDENTIFICAR POSIBLE AFECTACIÓN – VER'} link1={'ANEXO DE AFECTACIONES'} explain2={'ACTIVACION DEL'} link2={'PROCEDIMIENTO DE CONTINUIDAD DEL NEGOCIO'} />
+            <AnexosFooter />
         </Col>
     </Row>
 )

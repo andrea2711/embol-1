@@ -7,14 +7,14 @@ const Explain = (
     }
 ) => (
             <Row className="embol-explain">
-                <Col xs={12} md={4} className={'embol-ask'+ bgColor}>
+                <Col xs={6} md={4} className={'embol-ask'+ bgColor}>
                     <h4>{ask}</h4>
                     <div className="arrow"></div>
                 </Col>
-                <Col xs={12} md={explain2 ?4:8} className="primary-explain">
+                <Col xs={6} md={explain2 ?4:8} className="primary-explain">
                     <p>{explain1}</p>
                 </Col>
-                {explain2&&(<Col xs={12} md={4} className="secondary-explain">
+                {explain2&&(<Col xs={{size: 6, offset: 6 }} md={{size: 4, offset: 0 }} className="secondary-explain">
                     <p>{explain2}</p>
                 </Col>)}
 

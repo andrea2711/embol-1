@@ -8,9 +8,9 @@ const AnexosFooter = (
 ) => (
     <Row>
         <Col sm="12" md={{ size: 8, offset: 2 }}>
-            <div className="embol-footer">{explain1}<Link to='/Definitions'>{link1}</Link> </div>
+            <div className="embol-footer">IDENTIFICAR POSIBLE AFECTACIÓN – <Link to='/Anexo5'> VER ANEXO DE AFECTACIONES</Link> </div>
             <div className="embol-footer_arrow"></div>
-            <div className="embol-footer">{ explain2} <Link to='/Definitions'>{link2}</Link></div>
+            <div className="embol-footer">ACTIVACIÓN DEL <Link to='/Anexo6'>PROCEDIMIENTO DE CONTINUIDAD DEL NEGOCIO</Link></div>
         </Col>
     </Row>
 )

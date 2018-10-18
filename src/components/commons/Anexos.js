@@ -14,7 +14,7 @@ const Anexo = (
             </div>
 
         </div>
-        <h1 className="align-embol">{label1}</h1>
+        <h3 className="align-embol">{label1}</h3>
     </div>
 )
 
