@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39a9473a-e858-4679-b26b-619f5e268292" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/bienes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/comunidad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo-movile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/medio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/personas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/commons/Anexos.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contacts/contacts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Blogger Sans.ttf.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Blogger-Sans.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Anexos/Anexo1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Anexos/Anexo2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Definitions/Incident.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Definitions/Incident.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/commons/Anexos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/commons/Anexos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/commons/AnexosFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/commons/AnexosFooter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/commons/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/commons/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Anexos/Anexo6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Anexos/Anexo6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/commons/Anexos.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/commons/Anexos.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/commons/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/commons/Header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/commons/explain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/commons/explain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,11 +35,11 @@
           <entry key="AnexosExplain" value="1" />
           <entry key="css" value="2" />
           <entry key="html" value="4" />
-          <entry key="js" value="100" />
+          <entry key="js" value="102" />
           <entry key="json" value="3" />
           <entry key="md" value="1" />
           <entry key="png" value="3" />
-          <entry key="scss" value="29" />
+          <entry key="scss" value="32" />
           <entry key="svg" value="1" />
         </counts>
       </usages-collector>
@@ -70,25 +49,25 @@
           <entry key="HTML" value="4" />
           <entry key="Image" value="3" />
           <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="100" />
+          <entry key="JavaScript" value="102" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SCSS" value="29" />
+          <entry key="SCSS" value="32" />
           <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="6" />
+          <entry key="ESLintLanguageService" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="AnexosExplain" value="1" />
           <entry key="html" value="12" />
-          <entry key="js" value="3997" />
+          <entry key="js" value="4098" />
           <entry key="json" value="1" />
           <entry key="md" value="28" />
-          <entry key="scss" value="2760" />
+          <entry key="scss" value="2936" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
@@ -96,9 +75,9 @@
         <counts>
           <entry key="HTML" value="12" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="3995" />
+          <entry key="JavaScript" value="4096" />
           <entry key="PLAIN_TEXT" value="58" />
-          <entry key="SCSS" value="2760" />
+          <entry key="SCSS" value="2936" />
         </counts>
       </usages-collector>
     </session>
@@ -106,64 +85,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/commons/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="116" column="51" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/commons/Header.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/home/home.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/commons/explain.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="92">
+              <caret line="12" selection-start-line="12" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Main.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/commons/Header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="58">
+              <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -192,11 +126,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/contacts/Contacts.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Anexos/Anexo6.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+              <folding>
+                <element signature="e#632#1082#0" />
+                <element signature="e#1513#2350#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/commons/Anexos.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/commons/explain.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="28" selection-end-column="7" />
+              <folding>
+                <element signature="e#650#851#0" />
+                <element signature="e#865#1067#0" />
+                <element signature="e#1083#2025#0" />
+                <element signature="e#2037#2979#0" />
+                <element signature="e#3263#3299#0" />
+                <element signature="e#3321#3562#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Anexos/Anexo5.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -288,9 +270,7 @@
         <option value="$PROJECT_DIR$/src/components/commons/AnexosEx.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/components/Anexos/Anexo6.js" />
         <option value="$PROJECT_DIR$/src/assets/fonts/fonts.scss" />
-        <option value="$PROJECT_DIR$/src/components/commons/Anexos.scss" />
         <option value="$PROJECT_DIR$/src/components/Anexos/Anexo5.js" />
         <option value="$PROJECT_DIR$/src/components/commons/Anexos.js" />
         <option value="$PROJECT_DIR$/src/components/commons/AnexosFooter.js" />
@@ -306,9 +286,11 @@
         <option value="$PROJECT_DIR$/src/components/contacts/contacts.js" />
         <option value="$PROJECT_DIR$/src/components/Definitions/Incident.js" />
         <option value="$PROJECT_DIR$/src/components/commons/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/commons/Header.scss" />
         <option value="$PROJECT_DIR$/src/styles.scss" />
         <option value="$PROJECT_DIR$/src/components/contacts/Contacts.scss" />
+        <option value="$PROJECT_DIR$/src/components/Anexos/Anexo6.js" />
+        <option value="$PROJECT_DIR$/src/components/commons/Anexos.scss" />
+        <option value="$PROJECT_DIR$/src/components/commons/Header.scss" />
       </list>
     </option>
   </component>
@@ -375,6 +357,13 @@
               <item name="embol-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="embol-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="embol-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Anexos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="embol-1" type="b2602c69:ProjectViewProjectNode" />
@@ -462,7 +451,7 @@
       <workItem from="1539179916441" duration="10346000" />
       <workItem from="1539199635973" duration="36184000" />
       <workItem from="1539545729532" duration="31154000" />
-      <workItem from="1539875813811" duration="1355000" />
+      <workItem from="1539875813811" duration="5947000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit of full repository">
       <created>1539132915020</created>
@@ -499,14 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539876559200</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="contactos">
+      <created>1539886499298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539886499298</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95110000" />
+    <option name="totallyTimeSpent" value="99702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2082671" />
@@ -523,7 +519,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007949" side_tool="true" weight="0.2846975" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" weight="0.2846975" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" visible="true" weight="0.2846975" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -702,13 +698,6 @@
     <entry file="file://$PROJECT_DIR$/src/assets/personas.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Anexos/Anexo6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/fonts/fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -723,17 +712,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/commons/Anexos.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/commons/AnexosFooter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,6 +726,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -748,6 +736,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="124" selection-start-line="19" selection-start-column="124" selection-end-line="19" selection-end-column="124" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -762,13 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Anexos/Anexo5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -792,13 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/commons/explain.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Contacts.js" />
     <entry file="file://$PROJECT_DIR$/src/components/commons/Header.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -807,13 +784,6 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/commons/Header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -831,13 +801,6 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -882,6 +845,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Anexos/Anexo5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/commons/explain.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="e#650#851#0" />
+            <element signature="e#865#1067#0" />
+            <element signature="e#1083#2025#0" />
+            <element signature="e#2037#2979#0" />
+            <element signature="e#3263#3299#0" />
+            <element signature="e#3321#3562#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Anexos/Anexo6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+          <folding>
+            <element signature="e#632#1082#0" />
+            <element signature="e#1513#2350#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/commons/Anexos.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="50" column="17" lean-forward="true" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="12" selection-start-line="12" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/commons/Header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -27,3 +27,43 @@
     color : #ED1C24;
   }
 }
+.embol-anexo-red{
+  background-color: #CE2D31;
+  display: table;
+  text-align: center;
+  vertical-align: center;
+  color: white;
+  padding: 20px;
+  .arrow{
+    border-left: 10px solid #CE2D31;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    right: -10px;
+    top: 20px;
+    z-index: 99;
+  }
+}
+.embol-anexo-black{
+  background-color: #000;
+  display: table;
+  vertical-align: center;
+  color: white;
+  margin-bottom: 10px;
+  padding: 20px;
+  ul{
+    list-style: none;
+    li::before{
+      content:"";
+      height: 10px;
+      background-color: #ED1C24;
+      border-radius: 100%;
+      display: inline-block;
+      width: 10px;
+      margin-left: -2em;
+      margin-right: 2em;
+    }
+  }
+}
