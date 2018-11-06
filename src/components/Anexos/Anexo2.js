@@ -12,13 +12,15 @@ const Anexo2 = () => (
             'MEDIO  AMBIENTE'}/>
         </Col>
         <Col xs={12} md={8}>
+            <ul className="anexo-explain-container">
             <ExplainAnexo explain1={'Contención del Impacto Ambiental generado de manera inmediata.\n'} />
             <ExplainAnexo explain1={'Acordonamiento del área afectada, identificando si no se presentaron daños a personas.'} />
             <ExplainAnexo explain1={'Solicitud de apoyo al personal capacitado para atender el tipo de incidente, sea interno o externo.'} />
             <ExplainAnexo explain1={'Verificación del daño que se generó, identificando la afectación, tanto en infraestructura, equipamiento, producto o personas.'} />
             <ExplainAnexo explain1={'Aislamiento de la infraestructura, equipamiento o producto. Apoyo en atención médica; si existe personas afectadas.'} />
             <ExplainAnexo explain1={'Comunicación a las autoridades ambientales en el lugar donde sucedió el incidente.'} />
-            <AnexosFooter />
+            </ul>
+                <AnexosFooter />
         </Col>
     </Row>
 )

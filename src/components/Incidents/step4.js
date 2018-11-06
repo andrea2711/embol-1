@@ -12,6 +12,7 @@ const Step4 = () => (
             'IMCR'}/>
         </Col>
         <Col xs={12} md={8}>
+            <div className="embol-explain-container">
             <Explain bgColor={'_gray'} ask={'quién'} explain1={'El líder del \n' +
             'EMI – Operación.'} explain2={'El vocero del \n' +
             'EMI – Nacional.'}/>
@@ -20,6 +21,7 @@ const Step4 = () => (
             <Explain  bgColor={'_gray'} ask={'cuando'} explain1={'Una vez confirmada la situación.'}/>
             <Explain bgColor={'_gray'} ask={'tiempo'} explain1={'De manera inmediata luego de tener los datos necesarios.'}/>
             <Link className="next-arrow" to='/Step5'/>
+            </div>
         </Col>
     </Row>
 

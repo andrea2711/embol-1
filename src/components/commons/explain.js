@@ -6,7 +6,7 @@ const Explain = (
         ask, explain1 , explain2 , bgColor
     }
 ) => (
-            <Row className="embol-explain">
+            <Row className="embol-explain embol-explain-content">
                 <Col xs={6} md={4} className={'embol-ask'+ bgColor}>
                     <h4>{ask}</h4>
                     <div className="arrow"></div>

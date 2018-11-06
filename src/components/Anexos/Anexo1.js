@@ -12,6 +12,7 @@ const Anexo1 = () => (
             'INOCUIDAD'}/>
         </Col>
         <Col xs={12} md={8}>
+            <ul className="anexo-explain-container">
             <ExplainAnexo explain1={'Revisión de las contra-muestras, según producto observado.'} />
             <ExplainAnexo explain1={'Realización de la trazabilidad hacia atrás, verificando materias primas e insumos, tanto en stock de almacenes, como el que fue utilizado para la elaboración del producto en cuestión.'} />
             <ExplainAnexo explain1={'Realización de la trazabilidad durante la producción, verificación de uso de envases, tratamiento de aguas, jarabes e insumos utilizados para los mismos.'} />
@@ -19,7 +20,8 @@ const Anexo1 = () => (
             'Identificación del producto en cuestión que se encuentre dentro de almacenes, para evitar su salida.'} />
             <ExplainAnexo explain1={'Identificación de los puntos de venta a los que fue distribuido el producto en cuestión.\n' +
             'Verificar cuadratura.'} />
-            <Row className="note"><p>NOTA: Si se identifican personas que han sido afectadas por el consumo del producto en cuestión, se debe prestar apoyo en la atención médica.</p></Row>
+                <li className="anexo-explain note"><p>NOTA: Si se identifican personas que han sido afectadas por el consumo del producto en cuestión, se debe prestar apoyo en la atención médica.</p></li>
+            </ul>
             <AnexosFooter />
         </Col>
     </Row>

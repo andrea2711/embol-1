@@ -77,6 +77,22 @@
   color: #ED1C24;
 }
 @include media-breakpoint-down(sm){
+  .search-container{
+    width: 90% !important;
+    margin-bottom:20px !important;
+    margin: auto;
+    .search{
+      width: 100% !important;
+      border: none !important;
+      border-bottom: 1px solid #000 !important;
+      border-radius: 0 !important;
+
+    }
+
+  }
+  .background-logo{
+    background-image: url("assets/IMCR_MOVIL.png");
+  }
   .main-container{
     padding: 2rem 1.5rem;
   }
@@ -93,6 +109,12 @@
         height: 100px;
       }
     }
+  }
+  .embol-explain-container{
+    height: inherit;
+  }
+  .primary-explain,.secondary-explain{
+    height: 100px !important;
   }
   .embol-explain :before{
 
@@ -141,4 +163,68 @@
     }
 
   }
+  .embol-anexo-red .arrow{
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #ce2d31;
+    position: absolute;
+    left: 50%;
+    top: 100%;
+  }
 }
+.search-container{
+  width: 50px;
+  position: relative;
+  flex: 1;
+  &:after{
+    content: "";
+    position: absolute;
+    right: 15px;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+    z-index: 99999999;
+    top: 15px;
+    background: url("assets/search.svg");
+  }
+  .search{
+    position: absolute;
+    border-radius: 10px;
+    right: 10px;
+    width: 30px;
+    top: 5px;
+    padding: 3px;
+    border: 1px solid #6b6b6b;
+    box-shadow: none;
+    z-index: 99999;
+
+    &:focus {
+      width: 200px;
+    }
+  }
+
+}
+
+/*.cover{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: #ffffff;
+    top:80px;
+    left: 0px;
+  z-index: 999;
+  &:before{
+    content: "";
+    width: 100vw;
+    height: 100vh;
+    background-image: url("assets/IMCR_logo.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.3;
+    position: absolute;
+    z-index: 999;
+  }
+  }
+*/

@@ -13,13 +13,15 @@ const Anexo4 = () => (
             'EQUIPAMIENTO'}/>
         </Col>
         <Col xs={12} md={8}>
+            <ul className="anexo-explain-container">
             <ExplainAnexo explain1={'Aseguramiento del área afectada y eliminación del riesgo presente.'} />
             <ExplainAnexo explain1={'Aislamiento de bienes o áreas colindantes para minimizar la afectación.'} />
             <ExplainAnexo explain1={'Solicitud de apoyo externo'} />
             <ExplainAnexo explain1={'Acordonamiento y aseguramiento del área.'} />
             <ExplainAnexo explain1={'Comunicación con el seguro.'} />
             <ExplainAnexo explain1={'Identificación del personal que pudo presenciar el incidente para la recabar información adicional del suceso.\n.'} />
-            <AnexosFooter />
+            </ul>
+                <AnexosFooter />
         </Col>
     </Row>
 )

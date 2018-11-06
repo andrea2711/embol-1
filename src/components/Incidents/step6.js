@@ -12,12 +12,14 @@ const Step6 = () => (
             'DE CAUSAS'} label2={'ACTIVACIÓN IMCR'}/>
         </Col>
         <Col xs={12} md={8}>
+            <div className="embol-explain-container">
             <Explain  bgColor={'_red'} ask={'quién'} explain1={'El líder del EMI – Operación, junto con su equipo.'} />
             <Explain bgColor={'_red'} ask={'qué'} explain1={'Realiza un análisis de causas y establece las acciones inmediatas, a corto, mediano y largo plazo.'} />
             <Explain bgColor={'_red'} ask={'cómo'} explain1={'Tomando como referencia el Procedimiento de Acciones Correctivas.'}/>
             <Explain bgColor={'_red'} ask={'cuando'} explain1={'Una vez concluidas las medidas de control.'}/>
             <Explain bgColor={'_red'} ask={'tiempo'} explain1={'No mayor a 15 días de concluidas las medidas de control.'}/>
             <Link className="next-arrow" to='/Step7'/>
+            </div>
         </Col>
     </Row>
 

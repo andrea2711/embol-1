@@ -8,7 +8,7 @@ const Contacts = () => (
             <Button>TITULAR</Button>
             <Button>suplente</Button>
         </ButtonGroup>
-        <table>
+        <table className="contact-table">
             <thead>
             <tr>
                 <th>Responsabilidad</th>

@@ -12,6 +12,7 @@ const Step2 = () => (
     'EMI - OPERACIÓN'}/>
     </Col>
     <Col xs={12} md={8}>
+        <div className="embol-explain-container">
     <Explain bgColor={'_black'} ask={'quién'} explain1={'El líder del EMI – Operación.'} />
     <Explain bgColor={'_black'} ask={'qué'} explain1={'Llama a reunión inmediata a los integrantes del equipo EMI. Ver Cartilla de Contactos.\n' +
     'De forma paralela comunica al Líder del EMI Nacional, Coordinador Nacional del EMI y Gerente Nacional del área afectada, para que estén alertas sobre la situación.'} />
@@ -19,6 +20,7 @@ const Step2 = () => (
     <Explain bgColor={'_black'} ask={'cuando'} explain1={'Una vez se tenga conocimiento de la situación.'}/>
     <Explain  bgColor={'_black'} ask={'tiempo'} explain1={'No mayor a dos horas, de tener conocimiento de la situación.'}/>
         <Link className="next-arrow" to='/Step3'/>
+        </div>
     </Col>
 
 </Row>
