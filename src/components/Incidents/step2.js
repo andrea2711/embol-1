@@ -20,6 +20,7 @@ const Step2 = () => (
     <Explain bgColor={'_black'} ask={'cuando'} explain1={'Una vez se tenga conocimiento de la situación.'}/>
     <Explain  bgColor={'_black'} ask={'tiempo'} explain1={'No mayor a dos horas, de tener conocimiento de la situación.'}/>
         <Link className="next-arrow" to='/Step3'/>
+            <Link className="back-arrow" to='/Step1'/>
         </div>
     </Col>
 

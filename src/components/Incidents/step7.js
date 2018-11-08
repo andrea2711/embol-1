@@ -19,6 +19,7 @@ const Step7 = () => (
             <Explain  bgColor={'_gray'} ask={'cuando'} explain1={'Una vez concluido el plan de acción y su análisis de causa.'} explain2={'Una vez revisadas y aprobadas las lecciones aprendidas.'}/>
             <Explain bgColor={'_gray'} ask={'tiempo'} explain1={'No mayor a 2 días de concluido el plan de acción.'}/>
             <Link className="next-arrow" to='/Step8'/>
+                <Link className="back-arrow" to='/Step6'/>
             </div>
         </Col>
     </Row>

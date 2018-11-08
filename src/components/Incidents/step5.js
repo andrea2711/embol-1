@@ -19,6 +19,7 @@ const Step5 = () => (
             <Explain bgColor={'_black'} ask={'cuando'} explain1={'Una vez confirmada la activación del IMCR.'}/>
             <Explain  bgColor={'_black'} ask={'tiempo'} explain1={'No mayor a 24 horas de confirmado el incidente.'}/>
             <Link className="next-arrow" to='/Step6'/>
+                <Link className="back-arrow" to='/Step4'/>
             </div>
         </Col>
     </Row>

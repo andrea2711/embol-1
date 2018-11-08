@@ -19,6 +19,7 @@ const Step6 = () => (
             <Explain bgColor={'_red'} ask={'cuando'} explain1={'Una vez concluidas las medidas de control.'}/>
             <Explain bgColor={'_red'} ask={'tiempo'} explain1={'No mayor a 15 días de concluidas las medidas de control.'}/>
             <Link className="next-arrow" to='/Step7'/>
+                <Link className="back-arrow" to='/Step5'/>
             </div>
         </Col>
     </Row>

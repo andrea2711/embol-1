@@ -2,6 +2,7 @@ import React from 'react'
 import Steps from '../commons/steps'
 import Explain from '../commons/explain'
 import  {Row,Col} from 'reactstrap'
+import {Link} from "react-router-dom";
 
 
 const Step8 = () => (
@@ -15,6 +16,7 @@ const Step8 = () => (
             <Explain bgColor={'_black'} ask={'qué'} explain1={'Revisa los procedimientos involucrados del IMCR y los actualiza.'} />
             <Explain bgColor={'_black'} ask={'cuando'} explain1={'Una vez concluido el levantamiento del Plan de Acción.'}/>
             <Explain  bgColor={'_black'} ask={'tiempo'} explain1={'No mayor a 15 días de concluido el Plan de Acción.'}/>
+                <Link className="back-arrow" to='/Step7'/>
             </div>
         </Col>
     </Row>

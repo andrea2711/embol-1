@@ -18,6 +18,7 @@ import Step5 from "./Incidents/step5"
 import Step6 from "./Incidents/step6"
 import Step7 from "./Incidents/step7"
 import Step8 from "./Incidents/step8"
+import info from "./Definitions/Info"
 
 
 
@@ -43,6 +44,7 @@ const Main = () => (
         <Route path='/Step6' component={Step6}/>
         <Route path='/Step7' component={Step7}/>
         <Route path='/Step8' component={Step8}/>
+        <Route path='/info' component={info}/>
     </Switch>
   </main>
 )

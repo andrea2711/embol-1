@@ -77,6 +77,15 @@
   color: #ED1C24;
 }
 @include media-breakpoint-down(sm){
+  .next-arrow{
+    top: 97%;
+    right: 50px;
+  }
+
+  .back-arrow{
+    top: 97%;
+    left: 50px;
+  }
   .search-container{
     width: 90% !important;
     margin-bottom:20px !important;
@@ -90,6 +99,9 @@
     }
 
   }
+  .embol-explain .primary-explain,.embol-explain .secondary-explain {
+    font-size: 3vw;
+  }
   .background-logo{
     background-image: url("assets/IMCR_MOVIL.png");
   }
@@ -99,12 +111,23 @@
 
   .anexo-explain{
     padding: 0 20px;
+    overflow: auto;
+    p{
+      margin-top: 15px;
+      font-size: 3vw;
+    }
+  }
+  .note{
+    font-size: 3vw;
   }
   .embol-explain{
     margin-bottom: 10px;
     height: inherit;
     padding: 5px;
     .embol-ask_gray,.embol-ask_red,.embol-ask_black{
+      h4{
+        font-size: 6vw;
+      }
       &:before,&:after{
         height: 100px;
       }
@@ -199,9 +222,11 @@
     border: 1px solid #6b6b6b;
     box-shadow: none;
     z-index: 99999;
+    color: transparent;
 
     &:focus {
       width: 200px;
+      color: #000;
     }
   }
 

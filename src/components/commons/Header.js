@@ -89,8 +89,8 @@ export default class Header extends React.Component {
                             </NavItem>
                             {isOpenDropdownToggle && (<div className="cover"></div>)}
                             <UncontrolledDropdown nav inNavbar>
-                                <DropdownToggle nav caret onClick={this.dropdownToggle}>
-                                    MANEJO DE INCIDENTES Y RESOLUCIÓN DE CRISIS
+                                <DropdownToggle nav caret onClick={this.dropdownToggle} >
+                                    <Link to='/info'>MANEJO DE INCIDENTES Y RESOLUCIÓN DE CRISIS</Link>
                                 </DropdownToggle>
                                 <DropdownMenu left>
                                     <div onClick={this.closeDropDown} className="embol-dropdown-item">

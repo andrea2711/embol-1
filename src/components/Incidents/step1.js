@@ -18,6 +18,7 @@ const Step1 = () => (
         <Explain bgColor={'_gray'} ask={'tiempo'} explain1={'De forma inmediata.'}/>
         </div>
             <Link className="next-arrow" to='/Step2'/>
+
     </Col>
 
 </Row>
