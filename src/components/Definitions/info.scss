@@ -1,0 +1,109 @@
+.back-gradient{
+  background: #270c0d; /* Old browsers */
+  background: -moz-linear-gradient(right, #270c0d 0%, #722528 7%, #cd2d31 45%, #cd2d31 45%, #5b1210 92%, #270c0d 99%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(right, #270c0d 0%,#722528 7%,#cd2d31 45%,#cd2d31 45%,#5b1210 92%,#270c0d 99%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to left, #270c0d 0%,#722528 7%,#cd2d31 45%,#cd2d31 45%,#5b1210 92%,#270c0d 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#270c0d', endColorstr='#270c0d',GradientType=1 ); /* IE6-9 */
+
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.Add-padding{
+  padding: 30px;
+}
+.add-top{
+  margin-top: 148px;
+}
+.connect-1{
+background-image: url("assets/link1.png");
+  background-repeat: no-repeat;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  top: 109px;
+  right: -141px;
+}
+.connect-2{
+  background-image: url("assets/link2.png");
+  background-repeat: no-repeat;
+  height: 80px;
+  position: absolute;
+  width: 100px;
+  top: 109px;
+  right: 529px;
+  background-size: contain;
+}
+.connect-3{
+  background-image: url("assets/link3.png");
+  background-repeat: no-repeat;
+  height: 55px;
+  position: absolute;
+  width: 100px;
+  top: 142px;
+  right: 93px;
+  background-size: contain;
+}
+.add-small-top{
+  margin-top: 30px;
+}
+.arrow-connect{
+  background-image: url("assets/arrow_conect.png");
+  background-repeat: no-repeat;
+  height: 32px;
+  background-position: center;
+}
+.arrow_down{
+  background-image: url("assets/arrow_down.png");
+  background-repeat: no-repeat;
+  height: 73px;
+  position: absolute;
+  width: 100px;
+}
+.right{
+  right: 0;
+  text-align: right;
+}
+.title-info{
+  color: #ED1C24;
+  font-size: 2rem;
+  font-family : Blogger Sans;
+}
+.center{
+  background-position: center;
+}
+.text-vert{
+  writing-mode: vertical-lr;
+  color: #ED1C24;
+  font-size: 2rem;
+  font-family : Blogger Sans;
+  position: absolute;
+  right: -33px;
+  top: 14%;
+}
+.card-info{
+  border: 1px dashed #999999;
+  border-radius: 20px;
+  padding: 12px;
+  ul>li{
+    .number{
+      text-align: center;
+      background-color: #3A3A3A;
+      color: #ffffff;
+      border-radius: 100%;
+      width: 24px;
+      height: 24px;
+      display: inline-block;
+      position: absolute;
+      left: 32px;
+    }
+    .text{
+      display: inline-block;
+    }
+    list-style: none;
+    text-transform: capitalize;
+    text-align: center;
+  }
+}
