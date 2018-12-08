@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39a9473a-e858-4679-b26b-619f5e268292" name="Default Changelist" comment="" />
+    <list default="true" id="39a9473a-e858-4679-b26b-619f5e268292" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -35,7 +37,7 @@
           <entry key="css" value="2" />
           <entry key="html" value="4" />
           <entry key="js" value="151" />
-          <entry key="json" value="13" />
+          <entry key="json" value="14" />
           <entry key="md" value="2" />
           <entry key="png" value="3" />
           <entry key="scss" value="49" />
@@ -47,7 +49,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="4" />
           <entry key="Image" value="3" />
-          <entry key="JSON" value="12" />
+          <entry key="JSON" value="13" />
           <entry key="JavaScript" value="151" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="SCSS" value="49" />
@@ -65,7 +67,7 @@
           <entry key="AnexosExplain" value="1" />
           <entry key="html" value="12" />
           <entry key="js" value="6849" />
-          <entry key="json" value="30" />
+          <entry key="json" value="34" />
           <entry key="md" value="28" />
           <entry key="scss" value="4314" />
           <entry key="txt" value="27" />
@@ -74,7 +76,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="12" />
-          <entry key="JSON" value="30" />
+          <entry key="JSON" value="34" />
           <entry key="JavaScript" value="6847" />
           <entry key="PLAIN_TEXT" value="58" />
           <entry key="SCSS" value="4314" />
@@ -96,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/commons/Header.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="143">
@@ -104,6 +106,15 @@
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -198,7 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/anexos/anexo1.js" />
         <option value="$PROJECT_DIR$/src/components/commons/AnexosExplain" />
         <option value="$PROJECT_DIR$/src/components/commons/AnexosExplain.js" />
         <option value="$PROJECT_DIR$/src/components/commons/AnexosExplain1.js" />
@@ -249,6 +259,7 @@
         <option value="$PROJECT_DIR$/src/components/contacts/contactsSantacruz.js" />
         <option value="$PROJECT_DIR$/src/components/Main.js" />
         <option value="$PROJECT_DIR$/src/components/commons/Header.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -407,7 +418,7 @@
       <workItem from="1542038058701" duration="6732000" />
       <workItem from="1543621969910" duration="45000" />
       <workItem from="1544101652089" duration="2031000" />
-      <workItem from="1544207591309" duration="14323000" />
+      <workItem from="1544207591309" duration="14576000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit of full repository">
       <created>1539132915020</created>
@@ -462,12 +473,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149228000" />
+    <option name="totallyTimeSpent" value="149481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17329094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17329094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -482,7 +494,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007949" side_tool="true" weight="0.2846975" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" visible="true" weight="0.37544483" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" visible="true" weight="0.37544483" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -522,13 +534,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="contactos" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/fonts/fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/commons/AnexosFooter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -865,6 +870,13 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
