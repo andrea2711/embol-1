@@ -13,11 +13,15 @@
     justify-content: center;
     text-transform: uppercase;
   }
-  .contact-table{
+  .contactContain{
+    max-height: 60vh;
+    overflow: auto;
+    margin: 30px auto ;
     width: 90%;
-    margin: auto;
-    background: #ffffff;
-    margin: 30px;
+  }
+  .contact-table{
+    width: 99%;
+    background: #ffffff;;
     thead{
       background: #270c0d; /* Old browsers */
       background: -moz-linear-gradient(top, #270c0d 0%, #722528 7%, #cd2d31 45%, #cd2d31 45%, #5b1210 92%, #270c0d 99%); /* FF3.6-15 */

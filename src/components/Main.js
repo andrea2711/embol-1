@@ -19,7 +19,11 @@ import Step6 from "./Incidents/step6"
 import Step7 from "./Incidents/step7"
 import Step8 from "./Incidents/step8"
 import info from "./Definitions/Info"
-
+import ContactsNacional from "./contacts/contactsNacional"
+import ContactsCochabamba from "./contacts/contactsCochabamba";
+import ContactsTarija from "./contacts/contactsTarija";
+import ContactsLapaz from "./contacts/contactsLaPaz";
+import ContactsSantacruz from "./contacts/contactsSantacruz"
 
 
 const Main = () => (
@@ -45,6 +49,11 @@ const Main = () => (
         <Route path='/Step7' component={Step7}/>
         <Route path='/Step8' component={Step8}/>
         <Route path='/info' component={info}/>
+        <Route path='/ContactsNacional' component={ContactsNacional}/>
+        <Route path='/ContactsCochabamba' component={ContactsCochabamba}/>
+        <Route path='/ContactsTarija' component={ContactsTarija}/>
+        <Route path='/ContactsLapaz' component={ContactsLapaz}/>
+        <Route path='/ContactsSantacruz' component={ContactsSantacruz}/>
     </Switch>
   </main>
 )

@@ -1,0 +1,1083 @@
+[
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Jaime Yapur Prado",
+    "Cargo": "Gerente Regional",
+    "Mail": "jaime.yapur@embol.com",
+    "Interno": 3201,
+    "Celular": 70350000,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Leoncio Ch�vez",
+    "Cargo": "Jefe de Planta",
+    "Mail": "leoncio.chavez@embol.com",
+    "Interno": 3450,
+    "Celular": 70350004,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Sofia Iporre",
+    "Cargo": "Jefe de L&D",
+    "Mail": "sofia.iporre@embol.com",
+    "Interno": 3432,
+    "Celular": 68512600,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Leoncio Ch�vez",
+    "Cargo": "Jefe de Planta",
+    "Mail": "leoncio.chavez@embol.com",
+    "Interno": 3450,
+    "Celular": 70350004,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Sofia Iporre",
+    "Cargo": "Jefe de L&D",
+    "Mail": "sofia.iporre@embol.com",
+    "Interno": 3432,
+    "Celular": 68512600,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Sandra Lafuente",
+    "Cargo": "Jefe de Control Interno",
+    "Mail": "sandra.lafuente@embol.com",
+    "Interno": 3420,
+    "Celular": 70350359,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Hugo Galindo",
+    "Cargo": "Jefe de Ventas",
+    "Mail": "hugo.galindo@embol.com",
+    "Interno": 3280,
+    "Celular": 70350349,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "TITULAR",
+    "Nombre": "Joel Borda",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "joel.borda@embol.com",
+    "Interno": 3462,
+    "Celular": 70350358,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "TITULAR",
+    "Nombre": "Ana Mar�a Reguer�n",
+    "Cargo": "Jefe de Seguridad y Medio Ambiente",
+    "Mail": "ana.reguerin@embol.com",
+    "Interno": 3451,
+    "Celular": 70350418,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Carlos Navarro",
+    "Cargo": "Jefe de Contabilidad Nacional",
+    "Mail": "carlos.navarro@embol.com",
+    "Interno": 3210,
+    "Celular": 70350330,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Dusan Salaverry",
+    "Cargo": "Jefe de Mantenimiento",
+    "Mail": "dusan.salaverry@embol.com",
+    "Interno": 3469,
+    "Celular": 70350426,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Fabi�n Mercado",
+    "Cargo": "Supervisor de Distribuci�n",
+    "Mail": "fabian.mercado@embol.com",
+    "Interno": 3492,
+    "Celular": 70350976,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Dusan Salaverry",
+    "Cargo": "Jefe de Mantenimiento",
+    "Mail": "dusan.salaverry@embol.com",
+    "Interno": 3469,
+    "Celular": 70350426,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Fabi�n Mercado",
+    "Cargo": "Supervisor de Distribuci�n",
+    "Mail": "fabian.mercado@embol.com",
+    "Interno": 3492,
+    "Celular": 70350976,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Carlos Navarro",
+    "Cargo": "Jefe de Contabilidad Nacional",
+    "Mail": "carlos.navarro@embol.com",
+    "Interno": 3210,
+    "Celular": 70350330,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Antonio Zurita",
+    "Cargo": "Jefe de Ventas",
+    "Mail": "antonio.zurita@embol.com",
+    "Interno": 3297,
+    "Celular": 70350112,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Ma. Lourdes Rios",
+    "Cargo": "Ingeniera de Inocuidad",
+    "Mail": "mariadelourdes.rios@embol.com",
+    "Interno": 3462,
+    "Celular": 79787045,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Andre Covarrubias",
+    "Cargo": "Supervisor SSMA",
+    "Mail": "andre.covarrubias@embol.com",
+    "Interno": 3467,
+    "Celular": 78349614,
+    "depto": "cochabamba"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Marcelo Arce",
+    "Cargo": "Gerente de Operaci�n",
+    "Mail": "marcelo.arce@embol.com",
+    "Interno": 6501,
+    "Celular": 75140001,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Enrique Pinedo\nIv�n P�rez",
+    "Cargo": "Jefe de Planta \nJefe de L&D",
+    "Mail": "luisenrique.pinedo@embol.com\nivan.perez@embol.com",
+    "Interno": "6550\n3494",
+    "Celular": "61868650\n70350190",
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Enrique Pinedo",
+    "Cargo": "Jefe de Planta",
+    "Mail": "luisenrique.pinedo@embol.com",
+    "Interno": 6550,
+    "Celular": 61868650,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Iv�n P�rez",
+    "Cargo": "Jefe de L&D",
+    "Mail": "ivan.perez@embol.com",
+    "Interno": 3494,
+    "Celular": 70350190,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Fabio Ib��ez",
+    "Cargo": "Jefe de Control Interno",
+    "Mail": "fabio.iba�ez@embol.com",
+    "Interno": 6510,
+    "Celular": 70111786,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Gerardo Vaca Guzm�n",
+    "Cargo": "Jefe de Ventas",
+    "Mail": "gerardo.vacaguzman@embol.com",
+    "Interno": 6615,
+    "Celular": 61874042,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "TITULAR",
+    "Nombre": "Walter Zenteno",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "walter.zenteno@embol.com",
+    "Interno": 6557,
+    "Celular": 61868658,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "TITULAR",
+    "Nombre": "Hernan Le�n",
+    "Cargo": "Jefe de Seguridad y Medio Ambiente",
+    "Mail": "hernan.leon@embol.com",
+    "Interno": 6555,
+    "Celular": 61868655,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Gerardo Vaca Guzm�n",
+    "Cargo": "Jefe de Ventas",
+    "Mail": "gerardo.vacaguzman@embol.com",
+    "Interno": 6615,
+    "Celular": 61874042,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Daniel Garc�a\nNazario de los R�os",
+    "Cargo": "Administrador de Producci�n\nSupervisor de L&D",
+    "Mail": "daniel.garcia@embol.com\nnazario.delosrios@embol.com",
+    "Interno": "6557\n6570",
+    "Celular": "61868658\n61874049",
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Daniel Garc�a",
+    "Cargo": "Administrador de Producci�n",
+    "Mail": "daniel.garcia@embol.com",
+    "Interno": 6557,
+    "Celular": 61868658,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Nazario de los R�os",
+    "Cargo": "Supervisor de L&D",
+    "Mail": "nazario.delosrios@embol.com",
+    "Interno": 6570,
+    "Celular": 61874049,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Benito Fern�ndez",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "benito.fernandez@embol.com",
+    "Interno": 6512,
+    "Celular": 61874016,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Alejandro Espa�a",
+    "Cargo": "Supervisor de Ventas",
+    "Mail": "alejandro.espa�a@embol.com",
+    "Interno": 6616,
+    "Celular": 61874043,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Hernan Le�n",
+    "Cargo": "Jefe Seguridad y Medio Ambiente",
+    "Mail": "hernan.leon@embol.com",
+    "Interno": 6555,
+    "Celular": 61868655,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Walter Zenteno",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "walter.zenteno@embol.com",
+    "Interno": 6557,
+    "Celular": 61868658,
+    "depto": "tarija"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Jaime O. Tapia",
+    "Cargo": "Gerente Regional",
+    "Mail": "jaime.tapia@embol.com",
+    "Interno": 2201,
+    "Celular": 70584000,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Dalton Paniagua\nNestor Alfaro",
+    "Cargo": "Jefe de Planta \nJefe de L&D",
+    "Mail": "dalton.paniagua@embol.com\nnestor.alfaro@embol.com",
+    "Interno": "2450\n2482",
+    "Celular": "70111445\n70110022",
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Dalton Paniagua",
+    "Cargo": "Jefe de Planta",
+    "Mail": "dalton.paniagua@embol.com",
+    "Interno": 2450,
+    "Celular": 70111445,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Nestor Alfaro",
+    "Cargo": "Jefe de L&D",
+    "Mail": "nestor.alfaro@embol.com",
+    "Interno": 2482,
+    "Celular": 70110022,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Ivonne Rivero",
+    "Cargo": "Jefe de Control Interno",
+    "Mail": "ivonne.rivero@embol.com",
+    "Interno": 2470,
+    "Celular": 70111188,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Gerardo Prudencio",
+    "Cargo": "Gerente Comercial",
+    "Mail": "gerardo.prudencio@embol.com",
+    "Interno": 2280,
+    "Celular": 70110267,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "TITULAR",
+    "Nombre": "Ruben Vargas",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "ruben.vargas@embol.com",
+    "Interno": 2455,
+    "Celular": 70544380,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "TITULAR",
+    "Nombre": "Roger Choque",
+    "Cargo": "Administrador de Seguridad y Medio Ambiente",
+    "Mail": "roger.choque@embol.com",
+    "Interno": 2453,
+    "Celular": 78817473,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Gerardo Prudencio",
+    "Cargo": "Gerente Comercial",
+    "Mail": "gerardo.prudencio@embol.com",
+    "Interno": 2280,
+    "Celular": 70111441,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Igor Lacaze\nMiguel Castel",
+    "Cargo": "Administador de Producci�n\nSupervisor de Expedici�n",
+    "Mail": "igor.lacaze@embol.com\nmiguel.castel@embol.com",
+    "Interno": "2460\n2471",
+    "Celular": "70517778\n70111763",
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Igor Lacaze",
+    "Cargo": "Administrador de Producci�n",
+    "Mail": "igor.lacaze@embol.com",
+    "Interno": 2460,
+    "Celular": 70517778,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Miguel Castel",
+    "Cargo": "Supervisor de Expedici�n",
+    "Mail": "miguel.castel@embol.com",
+    "Interno": 2471,
+    "Celular": 70111763,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Jose Luis Mamani",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "joseluis.mamani@embol.com",
+    "Interno": 2472,
+    "Celular": 70110753,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Vladimir Lozada\nGerardo Cortez",
+    "Cargo": "Jefe Comercial",
+    "Mail": "vladimir.lozada@embol.com\ngerardo.cortez@embol.com",
+    "Interno": 2510,
+    "Celular": "70111443\n70110099",
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Roger Choque",
+    "Cargo": "Administrador de Seguridad y Medio Ambiente",
+    "Mail": "roger.choque@embol.com",
+    "Interno": 2453,
+    "Celular": 78817473,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Ruben Vargas",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "ruben.vargas@embol.com",
+    "Interno": 2455,
+    "Celular": 70544380,
+    "depto": "La paz"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Antonio Espinosa",
+    "Cargo": "Gerente Regional",
+    "Mail": "antonio.espinosa@embol.com",
+    "Interno": 1201,
+    "Celular": 78420200,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Marcelo Bejarano\nJorge Vega",
+    "Cargo": "Jefe de Planta \nJefe de L&D",
+    "Mail": "marcelo.bejarano@embol.com\njorge.vega@embol.com",
+    "Interno": "1060 \n1297",
+    "Celular": "72036546 \n69202447",
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Marcelo Bejarano",
+    "Cargo": "Jefe de Planta",
+    "Mail": "marcelo.bejarano@embol.com",
+    "Interno": 1060,
+    "Celular": 72036546,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Jorge Vega",
+    "Cargo": "Jefe de L&D",
+    "Mail": "jorge.vega@embol.com",
+    "Interno": 1297,
+    "Celular": 69202447,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Rolin Calderon",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "rolin.calderon@embol.com",
+    "Interno": 1223,
+    "Celular": 72138984,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Gabriel Castro",
+    "Cargo": "Jefe de Marketing",
+    "Mail": "gabriel.castro@embol.com",
+    "Interno": 1837,
+    "Celular": 79889202,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "TITULAR",
+    "Nombre": "Edwin Merlo",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "edwin.merlo@embol.com",
+    "Interno": 1259,
+    "Celular": 71012774,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "TITULAR",
+    "Nombre": "David Torrez",
+    "Cargo": "Jefe de Seguridad y Medio Ambiente",
+    "Mail": "david.torrez@embol.com",
+    "Interno": 1256,
+    "Celular": 71863718,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Marcelo Bejarano",
+    "Cargo": "Jefe de Planta",
+    "Mail": "marcelo.bejarano@embol.com",
+    "Interno": 1060,
+    "Celular": 72036546,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Reyner Justiniano\nJuan Carlos Coca",
+    "Cargo": "Jefe de Producci�n \nSupervisor de Distribuci�n",
+    "Mail": "reyner.justiniano@embol.com\njuancarlos.coca@embol.com",
+    "Interno": "1262 \n1292",
+    "Celular": "72138993 \n69473648",
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Producci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Reyner Justiniano",
+    "Cargo": "Jefe de Producci�n",
+    "Mail": "reyner.justiniano@embol.com",
+    "Interno": 1262,
+    "Celular": 72138993,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Juan Carlos Coca",
+    "Cargo": "Supervisor de Distribuci�n",
+    "Mail": "juancarlos.coca@embol.com",
+    "Interno": 1292,
+    "Celular": 69473648,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Jorge Rojo",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "jorge.royo@embol.com",
+    "Interno": 1224,
+    "Celular": 72131812,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Ariel Gutierrez",
+    "Cargo": "Jefe de Ventas",
+    "Mail": "ariel.gutierrez@embol.com",
+    "Interno": 1825,
+    "Celular": 78192364,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "SUPLENTE",
+    "Nombre": "David Torrez",
+    "Cargo": "Jefe de Seguridad y Medio Ambiente",
+    "Mail": "david.torrez@embol.com",
+    "Interno": 1256,
+    "Celular": 71863718,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Edwin Merlo",
+    "Cargo": "Administrador de Calidad",
+    "Mail": "edwin.merlo@embol.com",
+    "Interno": 1259,
+    "Celular": 71012774,
+    "depto": "Santa Cruz"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Cristian Jimenez",
+    "Cargo": "Jefe Comercial",
+    "Mail": "cristian.jimenez@embol.com",
+    "Interno": 3501,
+    "Celular": 70350140,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Oscar Sandy",
+    "Cargo": "Supervisor de L&D",
+    "Mail": "oscar.sandy@embol.com",
+    "Interno": 3560,
+    "Celular": 70315339,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Ivan P�rez",
+    "Cargo": "Jefe de L&D",
+    "Mail": "ivan.perez@embol.com",
+    "Interno": 3494,
+    "Celular": 70350190,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Giovanna Ayaviri",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "giovana.ayaviri@embol.com",
+    "Interno": 3510,
+    "Celular": 70316330,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Orlando Cabero",
+    "Cargo": "Jefe de Ventas Potos�",
+    "Mail": "orlando.cabero@embol.com",
+    "Interno": 3980,
+    "Celular": 70461338,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante CSM",
+    "CARGO": "TITULAR",
+    "Nombre": "Martin Aliaga",
+    "Cargo": "Asistente del SGI",
+    "Mail": "martin.aliaga@embol.com",
+    "Interno": 3530,
+    "Celular": 70319540,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Cristian Jimenez",
+    "Cargo": "Jefe Comercial",
+    "Mail": "cristian.jimenez@embol.com",
+    "Interno": 3501,
+    "Celular": 70350140,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Oscar Sandy",
+    "Cargo": "Supervisor de L&D",
+    "Mail": "oscar.sandy@embol.com",
+    "Interno": 3560,
+    "Celular": 70315339,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Ivan P�rez",
+    "Cargo": "Jefe de L&D",
+    "Mail": "ivan.perez@embol.com",
+    "Interno": 3494,
+    "Celular": 70350190,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Giovanna Ayaviri",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "giovana.ayaviri@embol.com",
+    "Interno": 3510,
+    "Celular": 70316330,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Orlando Cabero",
+    "Cargo": "Jefe de Ventas Potos�",
+    "Mail": "orlando.cabero@embol.com",
+    "Interno": 3980,
+    "Celular": 70461338,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "Integrante CSM",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Martin Aliaga",
+    "Cargo": "Asistente del SGI",
+    "Mail": "martin.aliaga@embol.com",
+    "Interno": 3530,
+    "Celular": 70319540,
+    "depto": "SUCRE -POTOSI"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Fernando G�mez",
+    "Cargo": "Gerente de Operaci�n",
+    "Mail": "fernando.gomez@embol.com",
+    "Interno": 4501,
+    "Celular": 70110088,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "TITULAR",
+    "Nombre": "Guillermo Ecos",
+    "Cargo": "Supervisor de Expedici�n",
+    "Mail": "guillermo.ecos@embol.com",
+    "Interno": 4573,
+    "Celular": 73805819,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Ivan P�rez",
+    "Cargo": "Jefe de L&D",
+    "Mail": "ivan.perez@embol.com",
+    "Interno": 3494,
+    "Celular": 70350190,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "TITULAR",
+    "Nombre": "Ivana Corzo",
+    "Cargo": "Supervisor de Control Interno",
+    "Mail": "ivana.corzo@embol.com",
+    "Interno": 4526,
+    "Celular": 70119634,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Roberto Helguero",
+    "Cargo": "Supervisor de Ventas",
+    "Mail": "roberto.helguero@embol.com",
+    "Interno": 4530,
+    "Celular": 70429673,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante CSM",
+    "CARGO": "TITULAR",
+    "Nombre": "Mercedes Hern�ndez",
+    "Cargo": "Asistente del SGI",
+    "Mail": "mercedes.hernandez@embol.com",
+    "Interno": 4557,
+    "Celular": 72208849,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Roberto Helguero",
+    "Cargo": "Supervisor de Ventas",
+    "Mail": "roberto.helguero@embol.com",
+    "Interno": 4530,
+    "Celular": 70429673,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI *",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Adalberto Choque",
+    "Cargo": "Auxiliar Facturaci�n de L&D",
+    "Mail": "adalberto.choque@embol.com",
+    "Interno": 4573,
+    "Celular": 73833737,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante Log�stica & Distribuci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Guillermo Ecos",
+    "Cargo": "Supervisor de Expedici�n",
+    "Mail": "guillermo.ecos@embol.com",
+    "Interno": 4573,
+    "Celular": 73805819,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante Administraci�n",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Edwin Melendres",
+    "Cargo": "Auxiliar de Control Interno",
+    "Mail": "edwin.melendres@embol.com",
+    "Interno": 4529,
+    "Celular": 72484184,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Franklin Arias",
+    "Cargo": "Supervisor de Ventas",
+    "Mail": "franklin.arias@embol,com",
+    "Interno": 4508,
+    "Celular": 70432001,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante CSM",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Guillermo Ecos",
+    "Cargo": "Supervisor de Expedici�n",
+    "Mail": "guillermo.ecos@embol.com",
+    "Interno": 4573,
+    "Celular": 73805819,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Herberth Vargas",
+    "Mail": "herbert.vargas@embol.com",
+    "Interno": 5001,
+    "Celular": 79899991,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI - Vocero Oficial",
+    "CARGO": "TITULAR",
+    "Nombre": "Luis Felipe Lugones",
+    "Mail": "luis.lugones@embol.com",
+    "Interno": 5025,
+    "Celular": 70644177,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area T�cnica",
+    "CARGO": "TITULAR",
+    "Nombre": "David Penazzi",
+    "Mail": "david.penazzi@embol.com",
+    "Interno": 1050,
+    "Celular": 72049480,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Legal",
+    "CARGO": "TITULAR",
+    "Nombre": "Jose Luis Bejarano",
+    "Mail": "joseluis.bejarano@embol.com",
+    "Interno": 5006,
+    "Celular": 70813333,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Desarrollo Humano",
+    "CARGO": "TITULAR",
+    "Nombre": "Faviana Olivera",
+    "Mail": "faviana.olivera@embol.com",
+    "Interno": 5040,
+    "Celular": 65052323,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Alan Sandoval",
+    "Mail": "alan.sandoval@embol.com",
+    "Interno": 5080,
+    "Celular": 70907000,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Distribuci�n y Logistica",
+    "CARGO": "TITULAR",
+    "Nombre": "Remberto Caero",
+    "Mail": "remberto.caero@embol.com",
+    "Interno": 3490,
+    "Celular": 70989224,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Finanzas",
+    "CARGO": "TITULAR",
+    "Nombre": "Alfonso Calatayud",
+    "Mail": "alafonso.calatayud@embol.com",
+    "Interno": 5010,
+    "Celular": 70350006,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "TITULAR",
+    "Nombre": "Ninoska Fuentes",
+    "Mail": "ninoska.fuentes@embol.com",
+    "Interno": 1055,
+    "Celular": 79884041,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "TITULAR",
+    "Nombre": "Jorge Pool",
+    "Mail": "jorge.pool@embol.com",
+    "Interno": 1056,
+    "Celular": 70767456,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "L�der del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "David Penazzi",
+    "Mail": "david.penazzi@embol.com",
+    "Interno": 1050,
+    "Celular": 72049480,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI - Vocero Oficial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Herbert Vargas",
+    "Mail": "herbert.vargas@embol.com",
+    "Interno": 5001,
+    "Celular": 79899991,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area T�cnica",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Ninoska Fuentes",
+    "Mail": "ninoska.fuentes@embol.com",
+    "Interno": 1055,
+    "Celular": 79884041,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Legal",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Teresa Navia",
+    "Mail": "teresa.navia@embol.com",
+    "Interno": 5007,
+    "Celular": 75056340,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Desarrollo Humano",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Luis Fernando Benavente",
+    "Mail": "luisfernando.benavente@embol.com",
+    "Interno": 5046,
+    "Celular": 65058086,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Enzo Manzoni",
+    "Mail": "enzo.manzoni@embol.com",
+    "Interno": 1082,
+    "Celular": 70824171,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Distribuci�n y Logistica",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Marioly Lozada",
+    "Mail": "marioly.lozada@embol.com",
+    "Interno": 5094,
+    "Celular": 77811311,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Finanzas",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Rolando Iturri",
+    "Mail": "luisrolando.iturri@embol.com",
+    "Interno": 5011,
+    "Celular": 74620988,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Giovanna Rojas",
+    "Mail": "giovana.rojas@embol.com",
+    "Interno": 3457,
+    "Celular": 70350152,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Fernando Orellana",
+    "Mail": "fernando.orellana@embol.com",
+    "Interno": 1056,
+    "Celular": 72221144,
+    "depto": "NACIONAL"
+  }
+
+]

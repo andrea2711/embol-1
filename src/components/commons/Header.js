@@ -141,12 +141,39 @@ export default class Header extends React.Component {
                                     CONTACTOS
                                 </DropdownToggle>
                                 <DropdownMenu right>
+
                                     <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Contacts'><span>PASO 1 </span>IDENTIFICACIÓN DE LA SITUACIÓN
+                                        <Link to='/ContactsNacional'><span className="embol-red">IMCR - </span>NACIONAL
                                         </Link>
                                     </div>
-                                    <div>
-                                        Option 2
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/ContactsCochabamba'><span className="embol-red">IMCR - </span>Planta: cochabamba
+                                        </Link>
+                                    </div>
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/ContactsTarija'><span className="embol-red">IMCR - </span>Planta: tarija
+                                        </Link>
+                                    </div>
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/ContactsLapaz'><span className="embol-red">IMCR - </span>Planta: la paz
+                                        </Link>
+                                    </div>
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/ContactsSantacruz'><span className="embol-red">IMCR - </span>Planta: santa cruz
+                                        </Link>
+                                    </div>
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/ContactsNacional'><span className="embol-red">IMCR - </span>centro de distribución: sucre - potosí
+                                        </Link>
+                                    </div>
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/ContactsNacional'><span className="embol-red">IMCR - </span>centro de distribución: oruro
+                                        </Link>
+                                    </div>
+
+                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
+                                        <Link to='/Contacts'><span className="embol-red">IMCR -  </span>coca-cola
+                                        </Link>
                                     </div>
                                 </DropdownMenu>
 
