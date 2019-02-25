@@ -1,124 +1,50 @@
 [
   {
-     "SUPLENTE":"Alejandro del Basto",
-    "MAILs": "adelbasto@coca-cola.com",
-    "TELEFONO S1": "511-411-4292",
+    "1° SUPLENTE": "Francisco Jeldres\nDiana Rosa",
+    "MAIL": "fjeldres@coca-cola.com",
+    "TELEFONO S1": "54-11-43192000",
     "TELEFONO S2": "51-99350-0292"
   },
   {
-    "SUPLENTE": "Diana Rosas",
-    "MAILs": "drosas@coca-cola.com",
-    "TELEFONO S1": "511-4114224",
-    "TELEFONO S2": "51-99350-0224"
-  },
-  {
-    "SUPLENTE": "Guillermo Gonzales",
-    "MAILs": "ggonzalesquintreina@coca-cola.com",
-    "TELEFONO S1": "591-721-60010",
+    "1° SUPLENTE": "Paola Calorio",
+    "MAIL": "pcalorio@coca-cola.com",
+    "TELEFONO S1": "569-94-439863",
     "TELEFONO S2": ""
   },
   {
-    "SUPLENTE": "Gabriel Ochoa",
-    "MAILs": "gochoa@coca-cola.com",
-    "TELEFONO S1": "",
+    "1° SUPLENTE": "Nicolas Fortun",
+    "MAIL": "nfortun@coca-cola.com",
+    "TELEFONO S1": "591-70649000",
     "TELEFONO S2": ""
   },
   {
-    "SUPLENTE": "Diana Rosas",
-    "MAILs": "drosas@coca-cola.com",
-    "TELEFONO S1": "511-4114224",
-    "TELEFONO S2": "51-99350-0224"
-  },
-  {
-    "SUPLENTE": "Iranivia L�pez",
-    "MAILs": "iralopez@coca-cola.com",
-    "TELEFONO S1": "511-4114201",
-    "TELEFONO S2": "51-99350-0201"
-  },
-  {
-    "SUPLENTE": "Claudia Fernandez",
-    "MAILs": "",
-    "TELEFONO S1": "591-72143-769",
+    "1° SUPLENTE": "Claudia Guereca",
+    "MAIL": "cguereca@coca-cola.com",
+    "TELEFONO S1": "591-78895232",
     "TELEFONO S2": ""
   },
   {
-    "AREAS": "",
-    "POSICIoN": "LIDER",
-    "TITULAR": "Guillermo Gonzales",
-    "MAIL": "ggonzalesquintreina@coca-cola.com",
-    "TELoFONO1": "591-721-60010",
-    "TELEFONO2": ""
+    "1° SUPLENTE": "Andres Zamora",
+    "MAIL": "",
+    "TELEFONO S1": "591-76788411",
+    "TELEFONO S2": ""
   },
   {
-    "AREAS": "",
-    "POSICIoN": "COORDINADOR",
-    "TITULAR": "Julia Sobrevilla",
-    "MAIL": "jsobrevilla@coca-cola.com",
-    "TELoFONO1": "511-4114-215",
-    "TELEFONO2": "51-99350-0215"
-  },
-  {
-    "AREAS": "OPERACIONES",
-    "POSICIoN": "",
-    "TITULAR": "Gonzalo Viera",
-    "MAIL": "gviera@coca-cola.com",
-    "TELoFONO1": "591-721-60090",
-    "TELEFONO2": ""
-  },
-  {
-    "AREAS": "MARKETING",
-    "POSICIoN": "",
-    "TITULAR": "Luis Felipe Cisneros",
-    "MAIL": "lucisneros@coca-cola.com",
-    "TELoFONO1": "511-411-4250",
-    "TELEFONO2": "51-99350-0265"
-  },
-  {
-    "AREAS": "ToCNICA",
-    "POSICIoN": "",
-    "TITULAR": "Sandra Gomez",
+    "1° SUPLENTE": "Sandra Gomez",
     "MAIL": "sangomez@coca-cola.com",
-    "TELoFONO1": "511-411-4432",
-    "TELEFONO2": "51-98614-8706"
+    "TELEFONO S1": "51-98-6148706",
+    "TELEFONO S2": ""
   },
   {
-    "AREAS": "FINANZAS",
-    "POSICIoN": "",
-    "TITULAR": "Alejandro del Basto",
-    "MAIL": "adelbasto@coca-cola.com",
-    "TELoFONO1": "511-4114218",
-    "TELEFONO2": "51-99350-0218"
+    "1° SUPLENTE": "Valeria Torrico",
+    "MAIL": "vtorrico@coca-cola.com",
+    "TELEFONO S1": "591-77511672",
+    "TELEFONO S2": ""
   },
   {
-    "AREAS": "INFORMoTICA",
-    "POSICIoN": "",
-    "TITULAR": "Alejandro del Basto",
-    "MAIL": "adelbasto@coca-cola.com",
-    "TELoFONO1": "511-4114218",
-    "TELEFONO2": "51-99350-0218"
-  },
-  {
-    "AREAS": "RR.HH.",
-    "POSICIoN": "",
-    "TITULAR": "Patricia Campos",
-    "MAIL": "pcampos@coca-cola.com",
-    "TELoFONO1": "511-411-4218",
-    "TELEFONO2": "51-99350-0218"
-  },
-  {
-    "AREAS": "COMUNICACIONES",
-    "POSICIoN": "",
-    "TITULAR": "Julia Sobrevilla",
-    "MAIL": "jsobrevilla@ccoa-cola.com",
-    "TELoFONO1": "511-411-42150",
-    "TELEFONO2": "51-99350-0215"
-  },
-  {
-    "AREAS": "ADM & SEGURIDAD",
-    "POSICIoN": "",
-    "TITULAR": "Ricardo Jara",
-    "MAIL": "riara@coca-cola.com",
-    "TELoFONO1": "562-2426-3196",
-    "TELEFONO2": ""
+    "1° SUPLENTE": "Paola Calorio",
+    "MAIL": "pcalorio@coca-cola.com",
+    "TELEFONO S1": "569-94-439863",
+    "TELEFONO S2": ""
   }
 ]

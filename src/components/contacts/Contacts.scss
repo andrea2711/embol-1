@@ -12,7 +12,10 @@
     display: flex;
     justify-content: center;
     text-transform: uppercase;
+    width: 50%;
+    margin: auto;
   }
+
   .contactContain{
     max-height: 60vh;
     overflow: auto;

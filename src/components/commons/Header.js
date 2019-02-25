@@ -163,11 +163,11 @@ export default class Header extends React.Component {
                                         </Link>
                                     </div>
                                     <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/ContactsNacional'><span className="embol-red">IMCR - </span>centro de distribución: sucre - potosí
+                                        <Link to='/ContactsSucre'><span className="embol-red">IMCR - </span>centro de distribución: sucre - potosí
                                         </Link>
                                     </div>
                                     <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/ContactsNacional'><span className="embol-red">IMCR - </span>centro de distribución: oruro
+                                        <Link to='/ContactsOruro'><span className="embol-red">IMCR - </span>centro de distribución: oruro
                                         </Link>
                                     </div>
 

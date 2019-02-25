@@ -36,7 +36,7 @@ drawRows(){
 
     <div className="contacts">
         <h5>CONTACTOS IMCR - NACIONAL</h5>
-        <ButtonGroup>
+        <ButtonGroup className="button-group">
             <Button>TITULAR</Button>
             <Button>SUPLENTE</Button>
         </ButtonGroup>
