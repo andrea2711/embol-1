@@ -1,21 +1,17 @@
 [
   {
     "AREAS": "",
-    "POSICIÓN": "LÍDER",
+    "POSICIÓN": "",
     "TITULAR": "Guillermo Gonzales Quint",
     "MAIL": "ggonzalesquintreina@coca-cola.com",
     "TELÉFONO1": "591-721-60010",
     "TELEFONO2": "591-33177210",
-    "TITULAR-ON": true
-  },
-  {
-    "AREAS": "",
-    "POSICIÓN": "COORDINADOR",
-    "TITULAR": "",
-    "MAIL": "",
-    "TELÉFONO1": "",
-    "TELEFONO2": "",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Francisco Jeldres\nDiana Rosa",
+    "MAILS": "fjeldres@coca-cola.com",
+    "TELEFONOS1": "54-11-43192000",
+    "TELEFONOS2": "51-99350-0292",
+    "haveSuplent": true
   },
   {
     "AREAS": "COORDINADOR",
@@ -24,7 +20,12 @@
     "MAIL": "clfernandez@coca-cola.com",
     "TELÉFONO1": "591-33177200",
     "TELEFONO2": "591-72143769",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Paola Calorio",
+    "MAILS": "pcalorio@coca-cola.com",
+    "TELEFONOS1": "569-94-439863",
+    "TELEFONOS2": "",
+    "haveSuplent": true
   },
   {
     "AREAS": "OPERACIONES",
@@ -33,7 +34,12 @@
     "MAIL": "ggonzalesquintreina@coca-cola.com",
     "TELÉFONO1": "591-33177210",
     "TELEFONO2": "591-72160010",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Nicolas Fortun",
+    "MAILS": "nfortun@coca-cola.com",
+    "TELEFONOS1": "591-70649000",
+    "TELEFONOS2": "",
+    "haveSuplent": true
   },
   {
     "AREAS": "MARKETING",
@@ -42,7 +48,17 @@
     "MAIL": "lucisneros@coca-cola.com",
     "TELÉFONO1": "51-993-500265",
     "TELEFONO2": "",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Claudia Guereca",
+    "MAILS": "cguereca@coca-cola.com",
+    "TELEFONOS1": "591-78895232",
+    "TELEFONOS2": "",
+    "haveSuplent": true,
+    "SUPLENTE": "Andres Zamora",
+    "MAILS": "",
+    "TELEFONOS1": "591-76788411",
+    "TELEFONOS2": "",
+    "haveSuplent": true
   },
   {
     "AREAS": "TÉCNICA",
@@ -51,7 +67,12 @@
     "MAIL": "sansalinas@coca-cola.com",
     "TELÉFONO1": "56-224-263139",
     "TELEFONO2": "",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Sandra Gomez",
+    "MAILS": "sangomez@coca-cola.com",
+    "TELEFONOS1": "51-98-6148706",
+    "TELEFONOS2": "",
+    "haveSuplent": true
   },
   {
     "AREAS": "FINANZAS",
@@ -60,7 +81,12 @@
     "MAIL": "fjeldres@coca-cola.com",
     "TELÉFONO1": "54-11-43192000",
     "TELEFONO2": "",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Valeria Torrico",
+    "MAILS": "vtorrico@coca-cola.com",
+    "TELEFONOS1": "591-77511672",
+    "TELEFONOS2": "",
+    "haveSuplent": true
   },
   {
     "AREAS": "INFORMÁTICA",
@@ -69,7 +95,8 @@
     "MAIL": "brodrigueztoppi@coca-cola.com",
     "TELÉFONO1": "54-11-43192000",
     "TELEFONO2": "",
-    "TITULAR-ON": true
+    "haveTitular": true
+
   },
   {
     "AREAS": "RR.HH.",
@@ -78,7 +105,8 @@
     "MAIL": "pacampos@coca-cola.com",
     "TELÉFONO1": "511-411-4218",
     "TELEFONO2": "51-993-500218",
-    "TITULAR-ON": true
+    "haveTitular": true
+
   },
   {
     "AREAS": "COMUNICACIONES",
@@ -87,7 +115,12 @@
     "MAIL": "clfernandez@coca-cola.com",
     "TELÉFONO1": "591-33177200",
     "TELEFONO2": "591-72143769",
-    "TITULAR-ON": true
+    "haveTitular": true,
+    "SUPLENTE": "Paola Calorio",
+    "MAILS": "pcalorio@coca-cola.com",
+    "TELEFONOS1": "569-94-439863",
+    "TELEFONOS2": "",
+    "haveSuplent": true
   },
   {
     "AREAS": "SEGURIDAD",
@@ -96,6 +129,6 @@
     "MAIL": "sangomez@coca-cola.com",
     "TELÉFONO1": "51-98-6148706",
     "TELEFONO2": "",
-    "TITULAR-ON": true
+    "haveTitular": true
   }
 ]

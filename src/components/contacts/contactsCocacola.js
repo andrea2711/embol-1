@@ -1,64 +1,85 @@
 import React from 'react'
 import { Button, ButtonGroup } from 'reactstrap';
-import myData from './KO.json';
 import myData from './KO2.json';
 
 export default class ContactsCocacola extends React.Component  {
     constructor(props) {
         super(props);
-        this.consulta1= myData.filter(function (c) {
-            return c.TITULAR-ON=== true;
-        });
+        this.consulta1= myData
+
     }
 
 
 
 
-    drawRows(){
+    drawRows1(){
         return(
-            <tbody>
-            {this.consulta1.map(data=>{
-                return(
-                    <tr>
-                        <td>{data.POSITION}</td>
-                        <td>{data.TITULAR}</td>
-                        <td>
-                            {data.MAIL}
-                        </td>
-                        <td>{data.TELEFONO1}</td>
-                        <td>{data.TELEFONO2}</td>
-                    </tr>
-                );
-            })}
-            </tbody>
+
+                <tbody>
+                {this.consulta1.map(data=>{
+                    return(
+                        <tr>
+                            <td>{data.AREAS}</td>
+                            <td>{data.TITULAR}</td>
+                            <td>{data.MAIL} </td>
+                            <td>
+                                <div>
+                                    {data.TELEFONO1}
+                                </div>
+                                <div>
+                                    {data.TELEFONO2}
+                                </div>
+                            </td>
+
+                                <td>{data.SUPLENTE}</td>
+                                <td>{data.MAIL} </td>
+                                <td>
+                                    <div>
+                                        {data.TELEFONOS1}
+                                    </div>
+                                    <div>
+                                        {data.TELEFONOS2}
+                                    </div>
+                                </td>
+                        </tr>
+                    );
+                })}
+
+                </tbody>
         );
     }
+
 
     render() {
 
         return (
 
             <div className="contacts">
-                <h5>CONTACTOS IMCR - NACIONAL</h5>
+                <h5>CONTACTOS IMCR - COCA-COLA</h5>
                 <ButtonGroup>
                     <Button>TITULAR</Button>
                     <Button>SUPLENTE</Button>
                 </ButtonGroup>
                 <div className="contactContain">
-                <table className="contact-table">
-                    <thead>
-                    <tr>
-                        <th>Responsabilidad</th>
-                        <th>Nombre</th>
-                        <th>MAIL</th>
-                        <th>interno</th>
-                        <th>tel&eacute;fono</th>
-                    </tr>
-                    </thead>
 
-                            {this.drawRows()}
+                    <div className="cocacolatable">
+                        <table className="contact-table">
+                            <thead>
+                            <tr>
+                                <th>área</th>
+                                <th>titular</th>
+                                <th>MAIL</th>
+                                <th>tel&eacute;fono</th>
+                                <th>suplente</th>
+                                <th>MAIL</th>
+                                <th>tel&eacute;fono</th>
+                            </tr>
+                            </thead>
 
-                </table>
+                            {this.drawRows1()}
+
+                        </table>
+                    </div>
                 </div>
             </div>
         )}

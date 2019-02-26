@@ -26,6 +26,7 @@ import ContactsLapaz from "./contacts/contactsLaPaz";
 import ContactsSantacruz from "./contacts/contactsSantacruz"
 import ContactsOruro from "./contacts/contactsOruro";
 import ContactsSucre from "./contacts/contactsSucre";
+import ContactsCocacola from "./contacts/contactsCocacola";
 
 const Main = () => (
   <main className="main-container">
@@ -57,6 +58,7 @@ const Main = () => (
         <Route path='/ContactsTarija' component={ContactsTarija}/>
         <Route path='/ContactsLapaz' component={ContactsLapaz}/>
         <Route path='/ContactsSantacruz' component={ContactsSantacruz}/>
+        <Route path='/ContactsCocacola' component={ContactsCocacola}/>
     </Switch>
   </main>
 )

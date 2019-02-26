@@ -46,3 +46,12 @@
     }
   }
 }
+.cocacolatable{
+
+  &::after{
+    content: "";
+    clear: both;
+  }
+  .contact-table{
+    width: 100% !important;}
+}

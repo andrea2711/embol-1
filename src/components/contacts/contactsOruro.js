@@ -38,7 +38,7 @@ export default class ContactsOruro extends React.Component  {
         return (
 
             <div className="contacts">
-                <h5>CONTACTOS IMCR - NACIONAL</h5>
+                <h5>CONTACTOS IMCR - ORURO</h5>
                 <ButtonGroup>
                     <Button>TITULAR</Button>
                     <Button>SUPLENTE</Button>

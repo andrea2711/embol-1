@@ -998,5 +998,195 @@
     "Interno": 4573,
     "Celular": 73805819,
     "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Integrante CSM",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Guillermo Ecos",
+    "Cargo": "Supervisor de Expedición",
+    "Mail": "guillermo.ecos@embol.com",
+    "Interno": 4573,
+    "Celular": 73805819,
+    "depto": "oruro"
+  },
+  {
+    "Responsabilidad": "Líder del EMI",
+    "CARGO": "TITULAR",
+    "Nombre": "Herberth Vargas",
+    "Mail": "herbert.vargas@embol.com",
+    "Interno": 5001,
+    "Celular": 79899991,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI - Vocero Oficial",
+    "CARGO": "TITULAR",
+    "Nombre": "Luis Felipe Lugones",
+    "Mail": "luis.lugones@embol.com",
+    "Interno": 5025,
+    "Celular": 70644177,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Técnica",
+    "CARGO": "TITULAR",
+    "Nombre": "David Penazzi",
+    "Mail": "david.penazzi@embol.com",
+    "Interno": 1050,
+    "Celular": 72049480,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Legal",
+    "CARGO": "TITULAR",
+    "Nombre": "Jose Luis Bejarano",
+    "Mail": "joseluis.bejarano@embol.com",
+    "Interno": 5006,
+    "Celular": 70813333,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Desarrollo Humano",
+    "CARGO": "TITULAR",
+    "Nombre": "Faviana Olivera",
+    "Mail": "faviana.olivera@embol.com",
+    "Interno": 5040,
+    "Celular": 65052323,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Comercial",
+    "CARGO": "TITULAR",
+    "Nombre": "Alan Sandoval",
+    "Mail": "alan.sandoval@embol.com",
+    "Interno": 5080,
+    "Celular": 70907000,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Distribución y Logistica",
+    "CARGO": "TITULAR",
+    "Nombre": "Remberto Caero",
+    "Mail": "remberto.caero@embol.com",
+    "Interno": 3490,
+    "Celular": 70989224,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Finanzas",
+    "CARGO": "TITULAR",
+    "Nombre": "Alfonso Calatayud",
+    "Mail": "alafonso.calatayud@embol.com",
+    "Interno": 5010,
+    "Celular": 70350006,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "TITULAR",
+    "Nombre": "Ninoska Fuentes",
+    "Mail": "ninoska.fuentes@embol.com",
+    "Interno": 1055,
+    "Celular": 79884041,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "TITULAR",
+    "Nombre": "Jorge Pool",
+    "Mail": "jorge.pool@embol.com",
+    "Interno": 1056,
+    "Celular": 70767456,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Líder del EMI",
+    "CARGO": "SUPLENTE",
+    "Nombre": "David Penazzi",
+    "Mail": "david.penazzi@embol.com",
+    "Interno": 1050,
+    "Celular": 72049480,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Coordinador del EMI - Vocero Oficial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Herbert Vargas",
+    "Mail": "herbert.vargas@embol.com",
+    "Interno": 5001,
+    "Celular": 79899991,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Técnica",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Ninoska Fuentes",
+    "Mail": "ninoska.fuentes@embol.com",
+    "Interno": 1055,
+    "Celular": 79884041,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Legal",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Teresa Navia",
+    "Mail": "teresa.navia@embol.com",
+    "Interno": 5007,
+    "Celular": 75056340,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Desarrollo Humano",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Luis Fernando Benavente",
+    "Mail": "luisfernando.benavente@embol.com",
+    "Interno": 5046,
+    "Celular": 65058086,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Comercial",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Enzo Manzoni",
+    "Mail": "enzo.manzoni@embol.com",
+    "Interno": 1082,
+    "Celular": 70824171,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area Distribución y Logistica",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Marioly Lozada",
+    "Mail": "marioly.lozada@embol.com",
+    "Interno": 5094,
+    "Celular": 77811311,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Area de Finanzas",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Rolando Iturri",
+    "Mail": "luisrolando.iturri@embol.com",
+    "Interno": 5011,
+    "Celular": 74620988,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Calidad",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Giovanna Rojas",
+    "Mail": "giovana.rojas@embol.com",
+    "Interno": 3457,
+    "Celular": 70350152,
+    "depto": "NACIONAL"
+  },
+  {
+    "Responsabilidad": "Seguridad y Medio Ambiente",
+    "CARGO": "SUPLENTE",
+    "Nombre": "Fernando Orellana",
+    "Mail": "fernando.orellana@embol.com",
+    "Interno": 1056,
+    "Celular": 72221144,
+    "depto": "NACIONAL"
   }
 ]

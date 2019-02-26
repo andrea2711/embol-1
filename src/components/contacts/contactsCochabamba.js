@@ -38,7 +38,7 @@ export default class ContactsCochabamba extends React.Component  {
         return (
 
             <div className="contacts">
-                <h5>CONTACTOS IMCR - NACIONAL</h5>
+                <h5>CONTACTOS IMCR - COCHABAMBA</h5>
                 <ButtonGroup>
                     <Button>TITULAR</Button>
                     <Button>SUPLENTE</Button>
