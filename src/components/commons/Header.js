@@ -183,32 +183,18 @@ export default class Header extends React.Component {
                                     ANEXOS
                                 </DropdownToggle>
                                 <DropdownMenu right>
+
                                     <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Anexo1'>Incidentes calidad / inocuidad <span className="embol-red">- 1 </span>
-                                        </Link>
-                                    </div>
-                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Anexo2'>Incidentes con afectación al medio ambiente <span
-                                            className="embol-red">- 2 </span>
+                                        <Link to='/Anexo2'> LINEAMENTOS PARA LAS HERRAMIENTAS DE ANÁLISIS DE INCIDENTES
+                                            <span
+                                            className="embol-red">- 1 </span>
 
                                         </Link>
                                     </div>
                                     <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Anexo3'>Pautas para entender incidentes <span
-                                            className="embol-red">-3</span>
-                                        </Link>
-                                    </div>
-                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Anexo4'>Incidentes con afectación a bienes o equipamiento <span
-                                            className="embol-red">-4</span>
-                                        </Link>
-                                    </div>
-                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Anexo5'>Ambitos de afectación<span className="embol-red">-5</span>
-                                        </Link>
-                                    </div>
-                                    <div onClick={this.closeDropDown} className="embol-dropdown-item">
-                                        <Link to='/Anexo6'>continuidad de negocio <span className="embol-red">-6</span>
+                                        <Link to='/Anexo3'>INFORMACIÓN COMPLEMENTARIA EVALUACIÓN INICIAL.
+                                            <span
+                                            className="embol-red">-2</span>
                                         </Link>
                                     </div>
                                 </DropdownMenu>

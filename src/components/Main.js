@@ -35,7 +35,6 @@ const Main = () => (
       <Route path='/Definitions' component={Definitions}/>
         <Route path='/Incident' component={Incident}/>
         <Route path='/Contacts' component={Contacts}/>
-        <Route path='/Anexo1' component={Anexo1}/>
         <Route path='/Anexo2' component={Anexo2}/>
         <Route path='/Anexo3' component={Anexo3}/>
         <Route path='/Anexo4' component={Anexo4}/>
