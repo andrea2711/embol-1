@@ -5,18 +5,49 @@ import myData from './nacional.json';
 export default class ContactsCochabamba extends React.Component  {
     constructor(props) {
         super(props);
-        this.consulta1= myData.filter(function (c) {
-            return c.depto==="cochabamba";
-        });
+
+        this.btnTitular= this.btnTitular.bind(this);
+        this.btnSuplente= this.btnSuplente.bind(this);
+        this.state = {
+            consulta:myData.filter(function (c) {
+                return c.depto==="cochabamba";
+            })
+        };
+
     }
 
+    btnTitular() {
+        this.setState({
+                consulta : this.state.consulta= myData.filter(function (c) {
+                    return c.depto==="cochabamba";
+                }).filter(function (c) {
+                    return c.CARGO === "TITULAR";
+                })
 
+            }, ()=>(this.state.consulta)
 
+        );
+    };
+
+    btnSuplente() {
+        this.setState({
+                consulta : this.state.consulta= myData.filter(function (c) {
+                    return c.depto==="cochabamba";
+                }).filter(function (c) {
+                    return c.CARGO === "SUPLENTE";
+                })
+
+            }, ()=>(this.state.consulta)
+
+        );
+
+    };
 
     drawRows(){
         return(
             <tbody>
-            {this.consulta1.map(data=>{
+            {this.state.consulta.map(data=>{
+
                 return(
                     <tr>
                         <td>{data.Responsabilidad}</td>
@@ -33,6 +64,8 @@ export default class ContactsCochabamba extends React.Component  {
         );
     }
 
+
+
     render() {
 
         return (
@@ -40,24 +73,24 @@ export default class ContactsCochabamba extends React.Component  {
             <div className="contacts">
                 <h5>CONTACTOS IMCR - COCHABAMBA</h5>
                 <ButtonGroup>
-                    <Button>TITULAR</Button>
-                    <Button>SUPLENTE</Button>
+                    <Button onClick={this.btnTitular}>TITULAR</Button>
+                    <Button onClick={this.btnSuplente} >SUPLENTE</Button>
                 </ButtonGroup>
                 <div className="contactContain">
-                <table className="contact-table">
-                    <thead>
-                    <tr>
-                        <th>Responsabilidad</th>
-                        <th>Nombre</th>
-                        <th>MAIL</th>
-                        <th>interno</th>
-                        <th>tel&eacute;fono</th>
-                    </tr>
-                    </thead>
+                    <table className="contact-table">
+                        <thead>
+                        <tr>
+                            <th>Responsabilidad</th>
+                            <th>Nombre</th>
+                            <th>MAIL</th>
+                            <th>interno</th>
+                            <th>tel&eacute;fono</th>
+                        </tr>
+                        </thead>
 
-                            {this.drawRows()}
+                        {this.drawRows()}
 
-                </table>
+                    </table>
                 </div>
             </div>
         )}
